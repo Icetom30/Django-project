@@ -1,2 +1,2 @@
-*Django-project: 
-MY DJANGO PROJECTS
+Django-project: 
+*MY DJANGO PROJECTS*
